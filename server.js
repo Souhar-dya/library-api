@@ -7,5 +7,5 @@ app.listen(PORT, () => {
 });
 
 app.get('/', (req, res) => {
-  res.send('Hello, welcome to library backend');
+  res.send('Hello, welcome to library backend, Designed by Souhardya Kundu');
 });
